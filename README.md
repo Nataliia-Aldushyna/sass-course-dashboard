@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple starter template for Sass
 
 ![screenshot](./demo/main-page.jpg)
@@ -115,3 +116,6 @@ Pages, у гілку `gh-pages`, щоразу, коли оновлюється �
 Цей шаблон створено під [MIT License](LICENSE).
 
 **Thank you and happy coding!** 💻
+=======
+# sass-course-dashboard
+>>>>>>> be581bef33d472e1c80d237b50178c504289f923
